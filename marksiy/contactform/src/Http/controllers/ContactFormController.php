@@ -1,9 +1,9 @@
 <?php
-// MyVendor\Contactform\src\Http\Controllers\ContactFormController.php
-namespace MyVendor\contactform\Http\Controllers;
+// marksiy\Contactform\src\Http\Controllers\ContactFormController.php
+namespace marksiy\contactform\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use MyVendor\contactform\Models\ContactForm;
+use marksiy\contactform\Models\ContactForm;
 
 class ContactFormController extends Controller {
 
